@@ -722,7 +722,7 @@ a.navbar-brand.our_logo{
 }
 .main_features_content{
 	background:url(../images/bannar/22-1.jpg) right center no-repeat;
-	padding:330px;
+	padding-right: 40%;
 	overflow:hidden;
 }
 
