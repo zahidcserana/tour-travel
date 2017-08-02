@@ -198,8 +198,8 @@
                     <div class="portfolio_content text-center  wow fadeIn" data-wow-duration="5s">
                         <div class="col-md-12">
                             <div class="head_title text-center">
-                                <h4>Delightful</h4>
-                                <h3>Experience</h3>
+                                <h4>Services</h4>
+                                <h3>Sights</h3>
                             </div>
 
                             <div class="main_portfolio_content">
