@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Food and Restorent One page Template</title>
+        <title>DREAM VIEW</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -74,7 +74,7 @@
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
-                                    <a class="navbar-brand our_logo" href="#"><img src="assets/images/logo.png" alt="" /></a>
+                                    <a class="navbar-brand our_logo" href="#"><img src="images/sizes/dv-4.png" alt="" /></a>
                                 </div>
 
                                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -82,12 +82,12 @@
 
                                     <ul class="nav navbar-nav navbar-right">
                                         <li><a href="#slider">Home</a></li>
-                                        <li><a href="#abouts">Menu</a></li>
-                                        <li><a href="#features">Features</a></li>
-                                        <li><a href="#portfolio">Delivery</a></li>
-                                        <li><a href="#ourPakeg">News</a></li>
-                                        <li><a href="#mobaileapps">Pages</a></li>
-                                        <li><a href="#" class="booking">Table Booking</a></li>
+                                        <li><a href="#abouts">About</a></li>
+                                        <li><a href="#features">Services</a></li>
+                                        <li><a href="#portfolio">Offers</a></li>
+                                        <li><a href="#ourPakeg">Gallery</a></li>
+                                        <li><a href="#mobaileapps">Spots</a></li>
+                                        <li><a href="#" class="booking">Contact</a></li>
                                     </ul>
                                 </div><!-- /.navbar-collapse -->
                             </div><!-- /.container-fluid -->
@@ -104,9 +104,9 @@
                         <div class="main_slider text-center">
                             <div class="col-md-12">
                                 <div class="main_slider_content wow zoomIn" data-wow-duration="1s">
-                                    <h1>Foody Love</h1>
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi. </p>
-                                    <button href="" class="btn-lg">Click here</button>
+                                    <h1>DREAM VIEW</h1>
+                                    <p style="font-size: 50px;color: crimson;padding-bottom: 4%;">Tours & Travels</p>
+                                    <a href="#portfolio" class="btn-lg" style="background: #00FA9A;color: darkblue;">Click here</a>
                                 </div>
                             </div>	
                         </div>
@@ -122,17 +122,24 @@
                     <div class="abouts_content">
                         <div class="col-md-6">
                             <div class="single_abouts_text text-center wow slideInLeft" data-wow-duration="1s">
-                                <img src="assets/images/ab.png" alt="" />
+                                <img src="images/1234.jpg" alt="" />
                             </div>
                         </div>
 
                         <div class="col-md-6">
                             <div class="single_abouts_text wow slideInRight" data-wow-duration="1s">
                                 <h4>About us</h4>
-                                <h3>WE ARE TASTY</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan</p>
+                                <h3>WE ARE CONFIDENT</h3>
+                                <p>Dream View Tours & Travels Company is a reliable tour operator and travel agent in Bangladesh, located in Dhaka. We offer our clients all categories of hotel, sight seeing land arrangements. We offer in all sights of Bangladesh and as well tours to China, India, Nepal and Bhutan etc.</p>
 
-                                <p>dard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesettingdard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</p>
+                                <h3>SERVICES: </h3>
+                                <ul>
+                                    <li class="fa fa-plane">&nbsp;&nbsp;Worldwide and Domestic Air ticketing</li><br>
+                                    <li class="fa fa-plane">&nbsp;&nbsp;Worldwide Hotel Booking</li><br>
+                                    <li class="fa fa-plane">&nbsp;&nbsp;Company Outings</li><br>
+                                    <li class="fa fa-plane">&nbsp;&nbsp;Organizer of conferences and meetings</li>
+                                </ul>
+                                  
 
                                 <a href="" class="btn btn-primary">click here</a>
                             </div>
@@ -150,11 +157,29 @@
                             <div class="col-md-12">
                                 <div class="main_features_content text-left">
                                     <div class="col-md-6">
-                                        <div class="single_features_text">
-                                            <h4>Special Recipes</h4>
-                                            <h3>Taste of Precious</h3>
-                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's stan</p>
-                                            <p>dard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesettingdard dummy text ever since the 1500s,when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting</p>
+                                        <div class="single_features_text" style="width: 158%;">
+                                            <h4>Special Offers</h4>
+                                            <h3>Spectacular Sights </h3>
+                                             <ul>
+                                                <li class="fa fa-plane">&nbsp;&nbsp;কক্সবাজার</li>
+                                                <li class="fa fa-plane">&nbsp;&nbsp;সেন্টমার্টিন</li>
+
+                                                 <li class="fa fa-plane">&nbsp;&nbsp;বান্দরবান</li>
+                                                  <li class="fa fa-plane">&nbsp;&nbsp;রাঙামাটি </li>
+
+                                                <li class="fa fa-plane">&nbsp;&nbsp;সুন্দরবন</li>
+                                                 <li class="fa fa-plane">&nbsp;&nbsp;কুয়াকাটা</li><br>
+                                              
+                                               
+                                                <li class="fa fa-plane">&nbsp;&nbsp;বিরিশিরি</li>
+                                                <li class="fa fa-plane">&nbsp;&nbsp;সাজেক ভ্যালি </li><br>
+
+                                                <li class="fa fa-plane">&nbsp;&nbsp;সিলেট </li>
+                                                  <li class="fa fa-plane">&nbsp;&nbsp;জাফলং</li><br>
+
+                                                    <li class="fa fa-plane">&nbsp;&nbsp;শ্রীমঙ্গল</li>
+                                                <li class="fa fa-plane">&nbsp;&nbsp;টাঙ্গুয়ার হাওর </li>
+                                            </ul>
 
                                             <a href="" class="btn btn-primary">click here</a>
                                         </div>
@@ -179,66 +204,66 @@
 
                             <div class="main_portfolio_content">
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p1.png" alt="" />
+                                    <img src="images/sizes/017.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - কক্সবাজার - ঢাকা</h6>
+                                        <p class="product_price">প্রতিজন ৬,৩০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p2.png" alt="" />
+                                    <img src="images/sizes//02.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - কক্সবাজার-সেন্টমার্টিন</h6>
+                                        <p class="product_price">প্রতিজন ৭,৩০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p3.png" alt="" />
+                                    <img src="images/sizes/03.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - খুলনা -সুন্দরবন </h6>
+                                        <p class="product_price">প্রতিজন ৯,৮০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p4.png" alt="" />
+                                    <img src="images/sizes/04.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - সাতক্ষীরা - সুন্দরবন </h6>
+                                        <p class="product_price">প্রতিজন ৯,৮০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p5.png" alt="" />
+                                    <img src="images/sizes/05.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - মংলা - সুন্দরবন </h6>
+                                        <p class="product_price">প্রতিজন ১০,৮০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p6.png" alt="" />
+                                    <img src="images/sizes/06.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - সিলেট - জাফলং  </h6>
+                                        <p class="product_price"> প্রতিজন ৫,৮০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p7.png" alt="" />
+                                    <img src="images/sizes/08.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - বান্দরবান - নীলগিরি  </h6>
+                                        <p class="product_price">প্রতিজন ৮,৩০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
                                 <div class="col-md-3 col-sm-4 col-xs-6 single_portfolio_text">
-                                    <img src="assets/images/p8.png" alt="" />
+                                    <img src="images/sizes/09.jpg" alt="" />
                                     <div class="portfolio_images_overlay text-center">
-                                        <h6>Italian Source Mushroom</h6>
-                                        <p class="product_price">$12</p>
+                                        <h6>ঢাকা - বিরিশিরি   </h6>
+                                        <p class="product_price">প্রতিজন ৪,৮০০ টাকা</p>
                                         <a href="" class="btn btn-primary">Click here</a>
                                     </div>								
                                 </div>
@@ -255,7 +280,7 @@
                     <div class="row">
                         <div class="head_title text-center">
                             <h4>Amazing</h4>
-                            <h3>Delicious</h3>
+                            <h3>Experince</h3>
                         </div>
 
                         <div class="single_pakeg_one text-right wow rotateInDownRight">

@@ -662,9 +662,9 @@ a.navbar-brand.our_logo{
 	
 }
 .main_slider .main_slider_content h1{
-font-size: 6rem;
+    font-size: 6rem;
     font-family: 'Pacifico', cursive;
-    color: #fff;
+    color: #ADFF2F;
     line-height: 6rem;
     margin:0px 0px 60px 0px;
 }	
@@ -676,7 +676,7 @@ font-size: 6rem;
 }
 
 .slider_overlay{
-	background:rgba(0, 0, 0, .6);
+	background:rgba(0, 0, 0, 0);
 	width:100%;
 	top:0;
 	left:0;
@@ -686,7 +686,7 @@ font-size: 6rem;
 /* Abouts Section css */
 
 .abouts{
-	 background: url(../images/abtbg.jpg) no-repeat center top scroll;
+	 background: url(../images/51.jpg) no-repeat center top scroll;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -708,7 +708,7 @@ font-size: 6rem;
 
 /* Features section css */
 .features{
-	background:url(../images/ftbg.jpg) center center no-repeat;
+	background:url(../images/bannar/14.jpg) center center no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -721,8 +721,8 @@ font-size: 6rem;
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/ft.png) right center no-repeat;
-	padding:40px;
+	background:url(../images/bannar/22-1.jpg) right center no-repeat;
+	padding:330px;
 	overflow:hidden;
 }
 
