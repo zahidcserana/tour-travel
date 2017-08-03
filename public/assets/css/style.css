@@ -655,7 +655,7 @@ a.navbar-brand.our_logo{
 /* slider section */
 
 .slider{
-	background:url(../images/bannerbg.jpg) center center no-repeat;
+	background:url(../images/Rangamati.jpg) center center no-repeat;
 	background-size:cover;
 }
 .main_slider {
@@ -676,7 +676,7 @@ a.navbar-brand.our_logo{
 }
 
 .slider_overlay{
-	background:rgba(0, 0, 0, 0);
+	background:rgba(0, 0, 0, 0.4);
 	width:100%;
 	top:0;
 	left:0;
@@ -708,7 +708,7 @@ a.navbar-brand.our_logo{
 
 /* Features section css */
 .features{
-	background:url(../images/bannar/14.jpg) center center no-repeat;
+	background:url(../../images/bannar/56.jpg) center center no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -721,8 +721,8 @@ a.navbar-brand.our_logo{
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/bannar/22-1.jpg) right center no-repeat;
-	padding-right: 40%;
+	background:url(../../images/bannar/88.jpg) right center no-repeat;
+	padding-right: 37%;
 	overflow:hidden;
 }
 
@@ -827,20 +827,20 @@ a.navbar-brand.our_logo{
 }
 
 .single_pakeg_one{
-	background:url(../images/newsone.jpg) left center no-repeat;
+	background:url(../images/cox-s.jpg) left center no-repeat;
 	padding:30px;
 	overflow:hidden;
 	margin-top:60px;
 }
 .single_pakeg_two{
-	background:url(../images/newstwo.jpg) right center no-repeat;
+	background:url(../images/tiger.jpg) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_three{
-	background:url(../images/newsthree.jpg) left center no-repeat;
+	background:url(../images/sylhet.jpg) left center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
@@ -863,7 +863,7 @@ a.navbar-brand.our_logo{
 /* Mobail Apps Section css */
 
 .mobailapps{
-	background:url(../images/appsbg.jpg) top center no-repeat scroll;
+	background:url(../images/more.jpg) top center no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;

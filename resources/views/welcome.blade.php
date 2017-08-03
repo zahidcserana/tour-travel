@@ -37,8 +37,8 @@
                     <div class="row">	
                         <div class="col-md-5 col-md-offset-3 col-sm-12 text-right">
                             <div class="call_us_text">
-								<a href=""><i class="fa fa-clock-o"></i> Order Foods 24/7</a>
-								<a href=""><i class="fa fa-phone"></i>061 9876 5432</a>
+								<a href=""><i class="fa fa-clock-o"></i>ঘুরে আসি </a>
+								<a href=""><i class="fa fa-phone"></i>+880-1929995195</a>
 							</div>
                         </div>
 
@@ -105,7 +105,7 @@
                             <div class="col-md-12">
                                 <div class="main_slider_content wow zoomIn" data-wow-duration="1s">
                                     <h1>DREAM VIEW</h1>
-                                    <p style="font-size: 50px;color: crimson;padding-bottom: 4%;">Tours & Travels</p>
+                                    <p style="font-size: 50px;color: #0000FF;padding-bottom: 4%;">Tours & Travels</p>
                                     <a href="#portfolio" class="btn-lg" style="background: #00FA9A;color: darkblue;">Click here</a>
                                 </div>
                             </div>	
@@ -155,9 +155,9 @@
                     <div class="row">
                         <div class="main_features_content_area  wow fadeIn" data-wow-duration="3s">
                             <div class="col-md-12">
-                                <div class="main_features_content text-left">
+                                <div class="main_features_content text-left" style="padding-left: 7%;">
                                     <div class="col-md-6">
-                                        <div class="single_features_text" style="width: 158%;">
+                                        <div class="single_features_text" style="width: 176%;">
                                             <h4>Special Offers</h4>
                                             <h3>Spectacular Sights </h3>
                                              <ul>
@@ -287,33 +287,33 @@
                             <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4">
                                 <div class="single_pakeg_text">
                                     <div class="pakeg_title">
-                                        <h4>Drinks</h4>
+                                        <h4>ঢাকা - কক্সবাজার - ঢাকা</h4>
                                     </div>
 
                                     <ul>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
+                                        <li> ৩ রাত ২ দিনের ................................................ ভ্রমণ প্যাকেজ  </li>
+                                        <li> প্রতিজন  ........................................................৬,৩০০ টাকা </li>
+                                        <li> দর্শনীয় স্থান : কক্সবাজার সি-বীচ, হিমছড়ি, ইনানী,বার্মিজ মার্কেট </li>
+                                        <li> যাতায়াত : বিলাসবহুল বাস সার্ভিস</li>
+                                        <li> খাবার : তিনবেলা খাবার ও চা/কফি এবং একদিন বারবিকিউ পার্টি  </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="single_pakeg_two text-left wow rotateInDownLeft">
+                        <div class="single_pakeg_two text-left wow rotateInDownLeft" style="padding-right: 15%;">
                             <div class="col-md-6 col-sm-8">
                                 <div class="single_pakeg_text">
                                     <div class="pakeg_title">
-                                        <h4>Main course </h4>
+                                        <h4>ঢাকা - খুলনা -সুন্দরবন </h4>
                                     </div>
 
                                     <ul>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
+                                        <li> ৪ রাত ৩ দিনের ...................................... ভ্রমণ প্যাকেজ  </li>
+                                        <li> প্রতিজন  .............................................৯,৮০০ টাকা </li>
+                                        <li> দর্শনীয় স্থান : করমজল,হারবাড়িয়া,কটকা,কচিখালী,জামতলা,সি-বিচ</li>
+                                        <li> যাতায়াত : ঢাকা-খুলনা পর্যন্ত বিলাসবহুল বাস সার্ভিস অথবা রেলগাড়ি এবং খুলনা বিলাসবহুল জাহাজ </li>
+                                        <li> খাবার : তিনবেলা খাবার,দুবেলা হালকা নাস্তা ও চা/কফি এবং একদিন বারবিকিউ পার্টি  </li>
                                     </ul>
                                 </div>
                             </div>
@@ -323,15 +323,15 @@
                             <div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4">
                                 <div class="single_pakeg_text">
                                     <div class="pakeg_title">
-                                        <h4>Desserts</h4>
+                                        <h4>ঢাকা - সিলেট - জাফলং</h4>
                                     </div>
 
                                     <ul>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
-                                        <li> Tuna Roast Source........................................................$24.5 </li>
+                                       <li> ৩ রাত ২ দিনের ...................................... ভ্রমণ প্যাকেজ  </li>
+                                        <li> প্রতিজন  .............................................৫,৮০০ টাকা </li>
+                                        <li> দর্শনীয় স্থান : বিছানা কান্দি, লালা খান, জাফলং, রাতার গুল  </li>
+                                        <li> যাতায়াত : বিলাসবহুল বাস অথবা মাইক্রোবাস  </li>
+                                        <li> খাবার : তিনবেলা খাবার,দুবেলা হালকা নাস্তা ও চা/কফি এবং একদিন বারবিকিউ পার্টি  </li>
                                     </ul>
                                 </div>
                             </div>
@@ -345,17 +345,28 @@
             <div class="slider_overlay">
                 <div class="container">
                     <div class="row">
+                        <div align="center" style="padding-top: 3%;color: floralwhite;">
+                        <h4><u>আমাদের আরো সেবা সমূহ : </u></h4>
+                        </div>
                         <div class="main_mobail_apps_content wow zoomIn">
                             <div class="col-md-5 col-sm-12 text-center">
-                                <img src="assets/images/iphone.png" alt="" />
+                                <img src="assets/images/bus.jpg" alt="" />
                             </div>
-                            <div class="col-md-7 col-sm-12">
+                            <div style="font-size: 17px;line-height: 2.5;">
+                                <ul>
+                                    <li><i class="fa fa-thumbs-up" aria-hidden="true"> হজ্জ্ব-ওমরাহ এর সকল ব্যবস্থা করা হয়</i></li>
+                                    <li><i class="fa fa-thumbs-up" aria-hidden="true"> সেন্ট-মার্টিন, কক্সবাজার ও বান্দরবান এর হোটেল বুকিং করা হয়</i></li>
+                                    <li><i class="fa fa-thumbs-up" aria-hidden="true"> পিকনিক ও ট্যুরের জন্য এসি ও নন-এসি বাস ব্যবস্থা করা হয় </i> </li>
+                                    <li><i class="fa fa-thumbs-up" aria-hidden="true"> ভারত, ভুটান, নেপাল, মালদ্বীপ, থাইল্যান্ড, মালয়েশিয়া ও হোটেল বুকিং এবং প্যাকেজ ট্যুর করা হয়</i> </li>
+                                </ul>
+                            </div>
+                            <div align="left">
+                                <h3> কেরানীগঞ্জে রেডি ফ্ল্যাট ও প্লট বিক্রয় করা হয় </h3>
+                            </div>
+                            <div class="col-md-7 col-sm-12" style="margin-bottom: 24%;">
                                 <div class="single_monail_apps_text">
-                                    <h4> Happy to Announce </h4>
-                                    <h1>Mobile App <span>is Available in every OS platform.</span></h1>
-
-                                    <a href=""><img src="assets/images/google.png" alt="" /></a>
-                                    <a href=""><img src="assets/images/apps.png" alt="" /></a>
+                                    
+                                   
                                 </div>
                             </div>
                         </div>
@@ -370,15 +381,12 @@
                     <div class="footer_widget_content text-center">
                         <div class="col-md-4">
                             <div class="single_widget wow fadeIn" data-wow-duration="2s">
-                                <h3>Take it easy with location</h3>
+                                <h3>চলুন ঘুরে আসি </h3>
 
                                 <div class="single_widget_info">
-                                    <p>112-Legere ancillae vix ne.
+                                    <p>আমাদের সাথে ঘুরতে যাওয়া মানে থাকা-খাওয়া সহ সকল ব্যবস্থা আমরাই করে দিব।
 
-                                        <span>Te elit putent propriae eum,</span>
-                                        <span>aliquip nominati</span>
-                                        <span class="phone_email">phone: 00 000 000</span>
-                                        <span>Email: support@templatemela.com</span></p>
+                                        <span>"শুধু স্বপ্নটা আপনার আর বাস্তবায়নের দায়িত্ব আমাদের"</span>
                                 </div>
 
                                 <div class="footer_socail_icon">
@@ -396,16 +404,17 @@
 
                         <div class="col-md-4">
                             <div class="single_widget wow fadeIn" data-wow-duration="4s">
-                                <h3>Take it easy with location</h3>
+                                <h3>যোগাযোগের ঠিকানা </h3>
 
                                 <div class="single_widget_info">
-                                    <p><span class="date_day">Monday To Friday</span>
-                                        <span>8:00am to 10:00pm(Breakfast)</span>
-                                        <span>11:00am to 10:00pm(Lunch/Diner)</span>
-
-                                        <span class="date_day">Saturday & Sunday</span>
-                                        <span>10:00am to 11:00pm(Brunch)</span>
-                                        <span>11:00am to 12:00pm(Lunch/Dinner)</span></p>
+                                    <p><span class="date_day">রহমানিয়া কমপ্লেক্স, মতিঝিল, ঢাকা-১০০০</span>
+                                        <span>এস # ৪, ৮ম তলা, ২৮/০১সি, টয়েন বি সার্কুলার রোড </span>
+                                        <span class="date_day">যোগাযোগ </span>
+                                        <span>01929995195 &nbsp; 01765-642664</span>
+                                        <span>01716-863624 &nbsp; 01823-074440</span>
+                                        <span>01704-444220 &nbsp; 01823-074446</span>
+                                        <span>01626-000250</span>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -450,7 +459,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="copyright wow zoomIn" data-wow-duration="3s">
-							<p>Made with <i class="fa fa-heart"></i> by <a href="http://bootstrapthemes.co">Bootstrap Themes</a>2016. All Rights Reserved</p>
+							<p>Made with <i class="fa fa-heart"></i> by <a href="http://dreamsoftbd.com">DREAM SOFT</a>2017. All Rights Reserved</p>
 						</div>
                     </div>
                 </div>
