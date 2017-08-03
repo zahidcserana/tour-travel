@@ -84,9 +84,9 @@
                                         <li><a href="#slider">Home</a></li>
                                         <li><a href="#abouts">About</a></li>
                                         <li><a href="#features">Services</a></li>
-                                        <li><a href="#portfolio">Offers</a></li>
-                                        <li><a href="#ourPakeg">Gallery</a></li>
-                                        <li><a href="#mobaileapps">Spots</a></li>
+                                        <li><a href="#ourPakeg">Offers</a></li>
+                                        <li><a href="#portfolio">Gallery</a></li>
+                                        <li><a href="#mobaileapps">More</a></li>
                                         <li><a href="#" class="booking">Contact</a></li>
                                     </ul>
                                 </div><!-- /.navbar-collapse -->
@@ -459,7 +459,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="copyright wow zoomIn" data-wow-duration="3s">
-							<p>Made with <i class="fa fa-heart"></i> by <a href="http://dreamsoftbd.com">DREAM SOFT</a>2017. All Rights Reserved</p>
+							<p>Made with <i class="fa fa-heart"></i> by <a href="http://dreamsoftbd.com">DREAM SOFT (BD)</a>2017. All Rights Reserved</p>
 						</div>
                     </div>
                 </div>
