@@ -74,7 +74,7 @@
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
-                                    <a class="navbar-brand our_logo" href="#"><img src="images/sizes/dv-4.png" alt="" /></a>
+                                    <a class="navbar-brand our_logo" href="#"><img src="assets/images/dv-4.png" alt="" /></a>
                                 </div>
 
                                 <!-- Collect the nav links, forms, and other content for toggling -->
